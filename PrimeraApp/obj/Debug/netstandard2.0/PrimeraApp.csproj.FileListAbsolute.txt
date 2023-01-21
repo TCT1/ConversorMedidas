@@ -1,0 +1,16 @@
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.deps.json
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.dll
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\bin\Debug\netstandard2.0\PrimeraApp.pdb
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.csproj.AssemblyReference.cache
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.AssemblyInfoInputs.cache
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.AssemblyInfo.cs
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.csproj.CoreCompileInputs.cache
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.dll
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\refint\PrimeraApp.dll
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\PrimeraApp.pdb
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\ref\PrimeraApp.dll
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Users\ljv08\Escritorio\xamarin\PrimeraApp\PrimeraApp\PrimeraApp\obj\Debug\netstandard2.0\Views\Convertir.xaml.g.cs

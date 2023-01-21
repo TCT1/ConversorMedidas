@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraApp.Views.Convertir"
+             NavigationPage.HasNavigationBar="False">
+    <Grid BackgroundColor="AntiqueWhite">
+        <StackLayout VerticalOptions="Center" Margin="20">
+            <Image Source="calc.png" Margin="0,0,0,20"></Image>
+            <Frame CornerRadius="20">
+                <Entry x:Name="txt" Keyboard="Numeric" Placeholder="centímetros (cm)" TextColor="Black" ></Entry>
+            </Frame>
+            <Button x:Name="btncalcular" Clicked="btncalcular_Clicked" Text="Calcular" Margin="0,20,0,20" CornerRadius="15" TextTransform="None" TextColor="White" BackgroundColor="Violet"></Button>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Resultado: " TextColor="Black" FontSize="Medium" FontAttributes="Bold" VerticalOptions="Center"></Label>
+                <Label x:Name="lblResultado" Text="" TextColor="Black" FontSize="Medium" FontAttributes="Bold" VerticalOptions="Center"></Label>
+            </StackLayout>
+            <Button x:Name="btnvolver" Clicked="btnvolver_Clicked" Text="Volver" HorizontalOptions="Center" Margin="0,20,0,0" CornerRadius="15" TextTransform="None" TextColor="Black" BackgroundColor="White"></Button>
+        </StackLayout>
+    </Grid>
+</ContentPage>
